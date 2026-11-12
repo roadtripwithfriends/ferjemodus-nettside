@@ -30,3 +30,11 @@ main h2{margin-top:2em}
 .oppdatert{color:var(--dempet);font-size:.9rem}
 footer{border-top:1px solid var(--kant);padding:24px 16px;color:var(--dempet);font-size:.9rem}
 footer a{margin-right:14px}
+.kort h4{margin:0 0 6px;font-size:1.05rem}
+.fase{margin:22px 0 8px}
+.fase h3{margin:0 0 10px;font-size:1.2rem}
+.steg{padding-left:1.4em;margin:0}
+.steg li{margin:8px 0}
+details.kort summary{cursor:pointer;font-weight:700}
+details.kort p{margin-top:8px}
+.knapp-bla{background:var(--hav);color:#fff}
